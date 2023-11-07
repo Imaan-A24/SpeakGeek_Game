@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - collect
+  - obstacle
+  - ground
+  - enemy
+  - Enemy
+  - big
+  - small
+  - duo
+  - solo
+  - spin
+  - complete
   layers:
   - Default
   - TransparentFX
